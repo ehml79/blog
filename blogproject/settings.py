@@ -25,7 +25,7 @@ SECRET_KEY = 'm1+f80u008p2i!w(^9v!n!c3+^&*5gvrqaupo96ib5s&-1**lu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.blog.xming18.cn']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
